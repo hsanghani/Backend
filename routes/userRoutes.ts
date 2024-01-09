@@ -21,4 +21,4 @@ router
     .route("/nearByUsers/:id")
     .put(getRadiusUserHandler);
 
-module.exports = router;
+module.exports = router; 
